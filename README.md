@@ -1,4 +1,4 @@
-CryptoDredge v0.9.1 NVIDIA CUDA High Performance miner (Linux/Windows )
+CryptoDredge v0.9.3 NVIDIA CUDA High Performance miner (Linux/Windows )
 
 CryptoDredge is a simple in use and highly optimized cryptocurrency mining software. It takes full advantage of modern NVIDIA graphics cards through the use of unique optimization techniques. We have also devoted great attention to stable power consumption. These benefits, along with the very small DevFee (being just low as 1%), make our product one of the best publicly available miners.
 
