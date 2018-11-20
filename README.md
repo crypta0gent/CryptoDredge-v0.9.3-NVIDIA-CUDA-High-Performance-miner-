@@ -1,0 +1,1 @@
+# CryptoDredge-v0.9.3-NVIDIA-CUDA-High-Performance-miner-
